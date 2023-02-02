@@ -1681,7 +1681,7 @@
     - guide
     - community
     - onnxruntime
-    
+
 - local: dialog-agents
   title: "What Makes a Dialog Agent Useful?"
   author: nazneen
@@ -1725,3 +1725,12 @@
     - community
     - guide
     - cv
+
+- local: speecht5
+  title: "Speech Synthesis, Recognition, and More With SpeechT5"
+  author: Matthijs
+  thumbnail: /blog/assets/speecht5/speecht5.png
+  date: TODO
+  tags:
+    - guide
+    - audio
